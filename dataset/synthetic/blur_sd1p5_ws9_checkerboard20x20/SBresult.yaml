@@ -1,0 +1,608 @@
+%YAML:1.0
+---
+loaded file: "E:\\PictureCollection\\数据采集\\标定\\合成\\blur_sd1p5_ws9_checkerboard20x20\\pattern_info.yaml"
+performance:
+   -
+      cost time ms: 354.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1266409956988278e-01
+      biggest error: 1.0678629068188117e+00
+   -
+      cost time ms: 154.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 7.0605764666808665e-02
+      biggest error: 1.1326261920904475e-01
+   -
+      cost time ms: 158.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.7355724398133698e-01
+      biggest error: 9.2126330715571725e-01
+   -
+      cost time ms: 155.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.8713549581108088e-01
+      biggest error: 8.0043394309678706e-01
+   -
+      cost time ms: 150.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 9.2221544550414133e-02
+      biggest error: 1.2146284730517365e-01
+   -
+      cost time ms: 141.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.8974270767335127e-01
+      biggest error: 7.1486268856200008e-01
+   -
+      cost time ms: 143.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.9568386691310619e-01
+      biggest error: 5.9645838504024140e-01
+   -
+      cost time ms: 138.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.6104762779669030e-01
+      biggest error: 7.1630765762228499e-01
+   -
+      cost time ms: 132.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.4342208459475903e-01
+      biggest error: 6.2202757257926733e-01
+   -
+      cost time ms: 127.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1313376469694745e-01
+      biggest error: 7.1015358619464974e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.4821969375237396e-323
+      false negative: 5.4643660430041868e-320
+      actual number: 16378
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 4.4465908125712189e-323
+   -
+      cost time ms: 123.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 8.1498634935437186e-02
+      biggest error: 1.0264145681827107e-01
+   -
+      cost time ms: 133.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.0375484115033293e-01
+      biggest error: 1.0402083259987847e+00
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.9762625833649862e-323
+      false negative: 7.2568362061162292e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 5.9287877500949585e-323
+   -
+      cost time ms: 131.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 5.1503347980060690e-02
+      biggest error: 1.1515292566250486e-01
+   -
+      cost time ms: 134.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.8564399359066489e-01
+      biggest error: 8.4831700876582916e-01
+   -
+      cost time ms: 126.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.0826149459612472e-01
+      biggest error: 4.6667936056619380e-01
+   -
+      cost time ms: 144.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.4136605317660400e-01
+      biggest error: 8.6129402317572856e-01
+   -
+      cost time ms: 150.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1386937047870733e-01
+      biggest error: 6.4404555443833766e-01
+   -
+      cost time ms: 111.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.5109901811627871e-01
+      biggest error: 6.2201809063322766e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 3.4584595208887258e-323
+      false negative: 6.0429169142842865e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 9.3872472709836843e-323
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 3.9525251667299724e-323
+      false negative: 1.2450454275199413e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 9.8813129168249309e-323
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 3.9525251667299724e-323
+      false negative: 4.5399692196352145e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.0375378562666177e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 3.9525251667299724e-323
+      false negative: 7.8348930117504877e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.0869444208507424e-322
+   -
+      cost time ms: 157.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.2957464510917389e-01
+      biggest error: 4.9454323147223600e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 4.4465908125712189e-323
+      false negative: 6.3319453171014157e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.1857575500189917e-322
+   -
+      cost time ms: 125.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.3918208231392193e-01
+      biggest error: 5.6586325801171145e-01
+   -
+      cost time ms: 132.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.2914258233925747e-01
+      biggest error: 6.6079191495161671e-01
+   -
+      cost time ms: 121.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.9323337444834165e-01
+      biggest error: 9.2127048131277722e-01
+   -
+      cost time ms: 129.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.0497885990543662e-01
+      biggest error: 5.0565457645640166e-01
+   -
+      cost time ms: 140.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1734226338235144e-01
+      biggest error: 7.0964811168496733e-01
+   -
+      cost time ms: 131.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.7690523944018163e-01
+      biggest error: 7.8687667167454745e-01
+   -
+      cost time ms: 135.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.6289001223557259e-01
+      biggest error: 7.9153890196596965e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 6.4228533959362051e-323
+      false negative: 3.2015453850512776e-321
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.5810100666919889e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 6.4228533959362051e-323
+      false negative: 3.6150783306204010e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.6304166312761136e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 6.4228533959362051e-323
+      false negative: 6.9100021227356742e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.6798231958602383e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 6.9169190417774516e-323
+      false negative: 2.1121306359713290e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.7292297604443629e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 6.9169190417774516e-323
+      false negative: 5.4070544280866022e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.7786363250284876e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 7.4109846876186982e-323
+      false negative: 6.0918294132225699e-321
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.8280428896126122e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 7.4109846876186982e-323
+      false negative: 3.9041067334375302e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.8774494541967369e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 7.4109846876186982e-323
+      false negative: 7.1990305255528034e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.9268560187808615e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 7.9050503334599447e-323
+      false negative: 2.4011590387884582e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 1.9762625833649862e-322
+   -
+      cost time ms: 143.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1602659913473016e-01
+      biggest error: 6.2968445562850728e-01
+   -
+      cost time ms: 128.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.6768328330681179e-01
+      biggest error: 9.1163167032785353e-01
+   -
+      cost time ms: 134.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.6972189918205954e-01
+      biggest error: 8.8053703501113323e-01
+   -
+      cost time ms: 150.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.8725932794283498e-01
+      biggest error: 7.6458681747855639e-01
+   -
+      cost time ms: 170.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.9123342381533981e-01
+      biggest error: 9.2169494394026596e-01
+   -
+      cost time ms: 167.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.0953944540448941e-01
+      biggest error: 3.0974058109830288e-01
+   -
+      cost time ms: 182.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.2348114296245608e-01
+      biggest error: 6.1292218385028430e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 9.3872472709836843e-323
+      false negative: 4.4821635390717886e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 2.3715151000379834e-322
+   -
+      cost time ms: 180.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.3635077618840494e-01
+      biggest error: 5.6401675952282704e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 9.8813129168249309e-323
+      false negative: 2.9792158444227167e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 2.4703282292062327e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 9.8813129168249309e-323
+      false negative: 6.2741396365379899e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 2.5197347937903574e-322
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.0375378562666177e-322
+      false negative: 1.4762681497736447e-320
+      actual number: 16335
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 2.5691413583744820e-322
+   -
+      cost time ms: 197.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1606737009216015e-01
+      biggest error: 6.1408473695872456e-01
+   -
+      cost time ms: 165.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.3432452215310439e-01
+      biggest error: 5.8951542463030426e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.0869444208507424e-322
+      false negative: 3.2904772013027020e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 2.7173610521268560e-322
+   -
+      cost time ms: 185.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1377463135841754e-01
+      biggest error: 7.7912204858781442e-01
+   -
+      cost time ms: 154.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.1813860651514514e-01
+      biggest error: 7.4946583245894083e-01
+   -
+      cost time ms: 157.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.6759990423111346e-01
+      biggest error: 1.0182189167905746e+00
+   -
+      cost time ms: 168.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.8614074427476451e-01
+      biggest error: 7.9364457478794403e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.1857575500189917e-322
+      false negative: 3.5795056041198312e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 2.9643938750474793e-322
+   -
+      cost time ms: 159.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 5.2442999673637136e-02
+      biggest error: 1.0445891411521084e-01
+   -
+      cost time ms: 185.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.6403329071159453e-01
+      biggest error: 8.0221813786844209e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.2351641146031164e-322
+      false negative: 5.3714817015860324e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 3.1126135687998532e-322
+   -
+      cost time ms: 158.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 8.2458004193548470e-02
+      biggest error: 1.0492817044006493e-01
+   -
+      cost time ms: 178.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.9292244399445635e-01
+      biggest error: 6.5492916588364392e-01
+   -
+      cost time ms: 170.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.5752853163964903e-01
+      biggest error: 5.4674823400970229e-01
+   -
+      cost time ms: 155.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 1.5804844505621149e-01
+      biggest error: 6.3367982041375237e-01
+   -
+      cost time ms: 181.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.0996886727857395e-01
+      biggest error: 7.9275473846562794e-01
+   -
+      cost time ms: 156.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 9.1762010442309916e-02
+      biggest error: 1.1473609775847492e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.3833838083554903e-322
+      false negative: 4.1575624097540897e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 3.4584595208887258e-322
+   -
+      cost time ms: 160.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 2.1747766703392210e-01
+      biggest error: 1.0491644223040621e+00
+   -
+      cost time ms: 126.
+      false positive: 0.
+      false negative: 0.
+      actual number: 361
+      detected number: 361
+      average error: 6.9063194600354372e-02
+      biggest error: 1.0946957441619230e-01
+   -
+      cost time ms: 1.1610483824564814e-311
+      false positive: 1.4327903729396150e-322
+      false negative: 5.9495385072202909e-320
+      actual number: 16380
+      detected number: 0
+      average error: 3.7054923438093491e-322
+      biggest error: 3.6066792146410998e-322
+total number of points: 18050
+total average error: 1.6879399831401781e-01
+average cost time per image ms: 1.5363999999999999e+02
+average cost time per point ms: 4.2559556786703601e-01
